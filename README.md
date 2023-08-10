@@ -1,3 +1,3 @@
-# Excercise Tracker
+# Exercise Tracker
 
-Excercise tracker using the Nutritionix API and Google Sheets
+Exercise tracker using the Nutritionix API and Google Sheets
